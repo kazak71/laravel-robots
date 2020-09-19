@@ -1,5 +1,5 @@
 {
-    "name": "mad-web/laravel-robots",
+    "name": "kazak71/laravel-robots",
     "description": "Robots.txt generator service.",
     "type": "library",
     "keywords": [
@@ -8,13 +8,13 @@
         "robots",
         "seo"
     ],
-    "homepage": "https://github.com/mad-web/laravel-robots",
+    "homepage": "https://github.com/kazak71/laravel-robots",
     "license": "MIT",
     "authors": [
         {
             "name": "mad-web",
-            "email": "madweb.dev@gmail.com",
-            "homepage": "https://github.com/mad-web",
+            "email": "kazak71@gmail.com",
+            "homepage": "https://github.com/kazak71",
             "role": "Developer"
         }
     ],
